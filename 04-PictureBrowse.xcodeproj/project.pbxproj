@@ -15,6 +15,7 @@
 		D5BB52601BF33A1D006ABDAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5BB525E1BF33A1D006ABDAF /* LaunchScreen.storyboard */; };
 		D5BB526B1BF33A1D006ABDAF /* _4_PictureBrowseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D5BB526A1BF33A1D006ABDAF /* _4_PictureBrowseTests.m */; };
 		D5BB52761BF33A1D006ABDAF /* _4_PictureBrowseUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D5BB52751BF33A1D006ABDAF /* _4_PictureBrowseUITests.m */; };
+		D5D3A3011BF39AD200E6D8C1 /* ImageData.plist in Resources */ = {isa = PBXBuildFile; fileRef = D5D3A3001BF39AD200E6D8C1 /* ImageData.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D5BB52711BF33A1D006ABDAF /* 04-PictureBrowseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "04-PictureBrowseUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5BB52751BF33A1D006ABDAF /* _4_PictureBrowseUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _4_PictureBrowseUITests.m; sourceTree = "<group>"; };
 		D5BB52771BF33A1D006ABDAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D5D3A3001BF39AD200E6D8C1 /* ImageData.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ImageData.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 			isa = PBXGroup;
 			children = (
 				D5BB52511BF33A1C006ABDAF /* main.m */,
+				D5D3A3001BF39AD200E6D8C1 /* ImageData.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 			files = (
 				D5BB52601BF33A1D006ABDAF /* LaunchScreen.storyboard in Resources */,
 				D5BB525D1BF33A1D006ABDAF /* Assets.xcassets in Resources */,
+				D5D3A3011BF39AD200E6D8C1 /* ImageData.plist in Resources */,
 				D5BB525B1BF33A1C006ABDAF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -496,6 +500,7 @@
 				D5BB527C1BF33A1D006ABDAF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D5BB527D1BF33A1D006ABDAF /* Build configuration list for PBXNativeTarget "04-PictureBrowseTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +509,7 @@
 				D5BB527F1BF33A1D006ABDAF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D5BB52801BF33A1D006ABDAF /* Build configuration list for PBXNativeTarget "04-PictureBrowseUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +518,7 @@
 				D5BB52821BF33A1D006ABDAF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
