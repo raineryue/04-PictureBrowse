@@ -31,6 +31,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <animations/>
                                 <state key="normal" backgroundImage="left_normal"/>
+                                <state key="highlighted" backgroundImage="left_highlighted"/>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="在他面前神马表情都弱爆了！" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="LsM-tT-tla">
                                 <rect key="frame" x="43" y="395" width="257" height="21"/>
@@ -45,6 +46,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <animations/>
                                 <state key="normal" backgroundImage="right_normal"/>
+                                <state key="highlighted" backgroundImage="right_highlighted"/>
                             </button>
                         </subviews>
                         <animations/>
@@ -59,7 +61,9 @@
     </scenes>
     <resources>
         <image name="biaoqingdi" width="406" height="436"/>
+        <image name="left_highlighted" width="96" height="96"/>
         <image name="left_normal" width="96" height="96"/>
+        <image name="right_highlighted" width="96" height="96"/>
         <image name="right_normal" width="96" height="96"/>
     </resources>
 </document>
