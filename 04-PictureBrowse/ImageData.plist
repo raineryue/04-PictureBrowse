@@ -8,5 +8,29 @@
 		<key>desc</key>
 		<string>在他面前，神马表情都弱爆了！在他面前，神马表情都弱爆了！在他面前，神马表情都弱爆了！重要的事情要说三遍</string>
 	</dict>
+	<dict>
+		<key>name</key>
+		<string>bingli</string>
+		<key>desc</key>
+		<string>这也忒狠了</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>chiniupa</string>
+		<key>desc</key>
+		<string>这小姑娘吃个牛排比杀牛还费劲啊</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>danteng</string>
+		<key>desc</key>
+		<string>亲，你能改下你的网名么？哈哈</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>wangba</string>
+		<key>desc</key>
+		<string>哥们为什么选八号呢</string>
+	</dict>
 </array>
 </plist>
